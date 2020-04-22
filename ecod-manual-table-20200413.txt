@@ -24983,6 +24983,7 @@ e5fmrC1[C:12-272]
 e4i66A1[A:32-234]
 e2r47A1[A:1-153]
 d1tuga1[A:1-150]
+e3txxD1[D:21-143,D:308-337]
 
 2007.1.2        Periplasmic binding protein-like I @Contains SCOP superfamilies: c.93.1@
 d2dria_[A:1-103,A:236-271]
