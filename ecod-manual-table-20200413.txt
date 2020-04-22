@@ -25239,7 +25239,9 @@ e3zenD8[D:1347-1492,D:1577-1745]
 e2vz9B3[B:488-615,B:678-839]
 e3hhdA1[A:488-615,A:678-842]
 e2jfkA1[A:489-615,A:681-819]
-
+2007.1.20		Dehydratase-like
+e5ym0A1[A:453-632]
+e5ym0A2[A:39-201,A:246-427]
 
 2007.2                Flavoproteins/Phosphotyrosine protein phosphatases-like
 2007.2.1        Flavoproteins @Contains SCOP superfamilies: c.23.5@
@@ -25421,7 +25423,6 @@ d2i4ra1
 d1ad2a_[A:68-159]
 d1i2aa_[A:53-148]
 d1mzpa_[A:58-153]
-
 
 
 
@@ -26748,6 +26749,7 @@ e1acoA5[A:2-200]
 e1acoA4[A:317-528]
 e1l5jA6[A:373-528]
 e1l5jA5[A:682-862]
+e1l5jB5[B:373-528]
 e2b3yA1[A:2-240]
 e2b3yA3[A:369-592]
 7532.1.2        Aconitase iron-sulfur domain II
