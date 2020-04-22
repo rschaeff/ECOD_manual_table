@@ -24082,7 +24082,6 @@ e3pidA3[A:296-396]
 2003.1.14        Aspartate/ornithine carbamoyltransferase @Contains SCOP superfamilies: c.78.1@
 d1ekxa1
 d1ekxa2
-d1tuga1[A:1-150]
 d1tuga1[A:151-310]
 d2at2a2
 d1duvg1
@@ -24983,6 +24982,8 @@ d2gk3a1
 e5fmrC1[C:12-272]
 e4i66A1[A:32-234]
 e2r47A1[A:1-153]
+d1tuga1[A:1-150]
+
 2007.1.2        Periplasmic binding protein-like I @Contains SCOP superfamilies: c.93.1@
 d2dria_[A:1-103,A:236-271]
 d2dria_[A:104-235]
