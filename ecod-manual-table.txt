@@ -1,4 +1,4 @@
-﻿#alpha arrays {alpha-helix arrays with mainly perpendicular helices}
+#alpha arrays {alpha-helix arrays with mainly perpendicular helices}
 3399.1.1        Acanthaporin
 e2lrdA1[A:1-61]  
 
