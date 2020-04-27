@@ -1,4 +1,4 @@
-﻿#alpha arrays {alpha-helix arrays with mainly perpendicular helices}
+#alpha arrays {alpha-helix arrays with mainly perpendicular helices}
 3399.1.1        Acanthaporin
 e2lrdA1[A:1-61]  
 
@@ -24984,8 +24984,6 @@ e4i66A1[A:32-234]
 e2r47A1[A:1-153]
 d1tuga1[A:1-150]
 e3txxD1[D:21-143,D:308-337]
-e4j4bA2[A:1-121]
-e5swvC5[C:1292-1394]
 
 2007.1.2        Periplasmic binding protein-like I @Contains SCOP superfamilies: c.93.1@
 d2dria_[A:1-103,A:236-271]
