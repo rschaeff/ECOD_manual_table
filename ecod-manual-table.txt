@@ -24656,6 +24656,7 @@ d2gc6a2
 d1o5za2
 d1srqa_[A:191-379]
 e6nz4A1[A:19-152,A:288-485]
+e3ajeA2[A:238-350]
 2004.1.2        PEP carboxykinase catalytic C-terminal domain 
 d2olra1
 d1khba1
@@ -26236,6 +26237,8 @@ e5ax7A2[A:241-401]
 e4qlbD1[D:7-300]
 e4qlbD2[D:301-664]
 e2ks6A1[A:1-201]
+e5zibA2[A:212-278,A:295-424]
+
 7513.1.1        CofD-like
 e3cgwA1[A:1-303]
 d2hzba1
@@ -26332,6 +26335,9 @@ e6eytA1[A:27-335]
 e2j0aA1[A:50-318]
 e5ej0A1[A:4-34,A:60-240]
 e2p6wA1[A:4-209]
+e6oq5A2[A:92-543]
+e6bsuA1[A:116-452]
+
 7517.1.1        Nucleoside hydrolase @Contains SCOP superfamilies: c.70.1@
 d2masa_
 d1kica_
@@ -26673,6 +26679,7 @@ d2acfa1
 e2w2gA1[A:389-516]
 e2w2gA2[A:524-652]
 e2kqvA1[A:1-129] %e2w2gA2[A:524-652]%
+e6bxrA1[A:173-445]
 
 
 7530.1.1        Replicase polyprotein 1a N-terminal macro-like domain
@@ -27073,6 +27080,7 @@ e4fguA1[A:28-286]
 e3ho6A1[A:5-259]
 e4r04A3[A:542-845]
 e5l20.1[A:35-150,B:173-395]
+e6oq5A2[A:546-844]
 
 
 7576.1.1        Gingipain R extra N-terminal alpha/beta domain
@@ -27352,6 +27360,7 @@ e5ey9B1[B:3-173]
 e5ey9B2[B:174-389]
 e3hguA1[A:2-282]
 e4b2gB1[B:16-356]
+e6eqoA3[A:427-613]
 
 
 7585.1.1        Rossmann-like domains in Sec1/munc18-like proteins {one left-handed bab unit probably resulted from deletion}
