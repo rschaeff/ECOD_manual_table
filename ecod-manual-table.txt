@@ -26761,7 +26761,7 @@ e1l5jA5[A:682-862]
 e1l5jB5[B:373-528]
 e2b3yA1[A:2-240]
 e2b3yA3[A:369-592]
-7532.1.2        Aconitase iron-sulfur domain II
+7542.1.2        Aconitase iron-sulfur domain II
 e2b3yA4[A:241-368]
 e1l5jA4[A:529-681]
 e1acoA3[A:201-316]
@@ -27080,7 +27080,7 @@ e4fguA1[A:28-286]
 e3ho6A1[A:5-259]
 e4r04A3[A:542-845]
 e5l20.1[A:35-150,B:173-395]
-e6oq5A2[A:546-844]
+e6oq5A3[A:546-844]
 
 
 7576.1.1        Gingipain R extra N-terminal alpha/beta domain
@@ -27411,6 +27411,7 @@ d1yzya1[A:240-412]
 
 
 7590.1.1        Middle domain in Argonaute homologs
+
 d1yvua2[A:315-490]
 e5awhA4[A:325-513]
 e4f1nA4[A:735-952]
@@ -27419,6 +27420,7 @@ d1w9ha1[A:11-172]
 e5i4aA4[A:258-433]
 d2ayia1[A:3-177]
 d1zjca1[A:3-183]
+e3f73A4[A:317-468]
 
 
 7591.1.1        Tetraacyldisaccharide 4'-kinase C-terminal domain
