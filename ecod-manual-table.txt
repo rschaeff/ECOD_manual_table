@@ -26238,6 +26238,9 @@ e4qlbD1[D:7-300]
 e4qlbD2[D:301-664]
 e2ks6A1[A:1-201]
 e5zibA2[A:212-278,A:295-424]
+e2hhcA1[A:2-150]
+e2hhcA2[A:151-317]
+e2hy7A2[A:13-204]
 
 7513.1.1        CofD-like
 e3cgwA1[A:1-303]
@@ -26342,6 +26345,8 @@ e6bsuA1[A:116-452]
 d2masa_
 d1kica_
 d1q8fa_
+e2yhgA5[A:523-844]
+
 7518.1.1        PK C-terminal domain-like @Contains SCOP superfamilies: c.49.1@
 d2g50a3
 d1pkla3
@@ -26377,6 +26382,7 @@ e2xt6A4[A:1091-1227]
 d2ozlb2
 d2c42a3
 e5b46A3[A:503-628]
+
 7523.1.1        Periplasmic binding protein-like II @Contains SCOP superfamilies: c.94.1@
 d1jeta_[A:1-45,A:166-269,A:486-517]
 d1jeta_[A:270-485]
@@ -26604,6 +26610,13 @@ e3muqA1[A:27-105,A:219-259]
 e3muqA2[A:106-218]
 e5vvhD1[D:89-161,D:261-298]
 e5vvhD2[D:162-260]
+e5cfvA3[A:523-844]
+e2de2A2[A:2-113]
+e2ia4B2[B:129-279]
+e2x26A2[A:25-106,A:208-332]
+e5w0zB4[B:3-114]
+e5gppA2[A:2-114,A:263-370]
+
 7524.1.1        ALDH-like @Contains SCOP superfamilies: c.82.1@
 d1ad3a_[A:2-211]
 d1ad3a_[A:212-447]
@@ -26663,6 +26676,7 @@ d3pmga3
 d1p5dx1
 d1p5dx2
 d1p5dx3
+e2dkaB2[B:311-464]
 
 
 7529.1.1        Macro domain-like @Contains SCOP superfamilies: c.50.1@
@@ -26680,6 +26694,9 @@ e2w2gA1[A:389-516]
 e2w2gA2[A:524-652]
 e2kqvA1[A:1-129] %e2w2gA2[A:524-652]%
 e6bxrA1[A:173-445]
+e4efdA2[A:4-201]
+e2hb6A2[A:2-164]
+e3ij3A3[A:2-140]
 
 
 7530.1.1        Replicase polyprotein 1a N-terminal macro-like domain
@@ -27368,6 +27385,8 @@ d1epua_[A:2-133]
 d1epua_[A:134-235,A:482-591]
 d1mqsa_[A:10-162]
 d1mqsa_[A:163-269,A:555-662]
+e4jc8A3[A:141-241,A:556-654]
+e4jc8A1[A:5-140]
 
 
 7586.1.1        Rossmann-like domain in prismane-like proteins
