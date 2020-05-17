@@ -14291,6 +14291,7 @@ e2lshA1[A:1-118]
 d2exna1
 
 
+708.1	ETN0001 domain-like
 708.1.1        NAC/WRKY/GCM/WOPR domain {Nucl. Acids Res. (2006) 34 (22): 6505-6520.                                      doi: 10.1093/nar/gkl888}
 d1ut7a_
 d1odha_[A:14-78,A:124-170]
@@ -14298,6 +14299,20 @@ d1wj2a_
 e2rprA1[A:1-87]
 e4lmgB1[B:42-180]
 e4m8bR1[R:1-189]
+708.1.2        Mss4-like @Contains SCOP superfamilies: b.88.1@
+d1hxra_ !Each duplicate has four strands: first three form a sheet and the fourth swaps to the other duplicate. The Zn-binding loop is between strand 1 and 2.!
+d1txja_
+d1yz1a1
+d1l1da_
+d1x6ma_
+e3facA1[A:1-109]
+e3eqtA1[A:546-672] !horaWeF6i8!
+e2rqbA1[A:891-1025]
+e3ncuA1[A:804-923]
+e3djmA1[A:3-115]
+e4ci1B2[B:321-427]
+e4tz4C2[C:320-428]
+
 
 
 
@@ -28388,20 +28403,6 @@ e2xcmE2[E:148-179,E:215-221]
 
 
 
-
-930.1.1        Mss4-like @Contains SCOP superfamilies: b.88.1@
-d1hxra_ !Each duplicate has four strands: first three form a sheet and the fourth swaps to the other duplicate. The Zn-binding loop is between strand 1 and 2.!
-d1txja_
-d1yz1a1
-d1l1da_
-d1x6ma_
-e3facA1[A:1-109]
-e3eqtA1[A:546-672] !horaWeF6i8!
-e2rqbA1[A:891-1025]
-e3ncuA1[A:804-923]
-e3djmA1[A:3-115]
-e4ci1B2[B:321-427]
-e4tz4C2[C:320-428]
 
 
 
