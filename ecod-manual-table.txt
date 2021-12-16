@@ -8758,7 +8758,6 @@ e4w64A1[A:1-169]
 e5iv5R1[R:2-163]
 e5iv5W1[W:2-32,W:94-254]
 e4qxzA1[A:1-144]
-e3j9qS1[S:3-168]
 e2qwuA1[A:3-209]
 e2kvoA1[A:1-120]
 e3aqpA3[A:111-251] !duplication!
@@ -8980,6 +8979,7 @@ e4jmqC1[C:1-83,C:171-217]
 e4jmqC2[C:84-170]
 e2wzpR1[R:1-110]
 e2wzpR3[R:216-233,R:319-375]
+e3j9qS1[S:3-168]
 1.1.14        PTS system glucitol/sorbitol-specific IIA component-like
 d2f9ha1
 e3cbnA1[A:21-165]
