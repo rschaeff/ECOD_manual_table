@@ -5116,7 +5116,6 @@ d1ryka_
 170.1.1        Retrovirus capsid protein-C @Contains SCOP superfamilies: a.28.3@
 d1a8oa_
 d1d1da1
-d2fi2a1
 e4x3xA1[A:278-361]
 e5m1hA2[A:386-479]
 170.2.1        Retrovirus capsid protein N-terminal domain @Contains SCOP superfamilies: a.73.1@
@@ -8479,6 +8478,8 @@ e5u30A2[A:28-386]
 e5id6A6[A:292-514]
 e5b43A6[A:320-526]
 
+7114.1.1		SCAN domain
+d2fi2a1
 
 5012.1.1        CRISPR-associated endonuclease C2c1 second helical domain
 e5u30A4[A:625-805]
