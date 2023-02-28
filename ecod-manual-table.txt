@@ -1677,6 +1677,10 @@ d1urja_[A:1048-1129] !similarity to d1oxja1!
 e5hx2A4[A:695-761,A:863-897]
 102.8.1        UPF0348 protein MJ0951 C-terminal domain
 e3gmiA2[A:272-354]
+102.9.1        Cdc45 CID domain
+e5dgoA3[A:267-372]
+e5ghtA3[A:195-278]
+
 
 
 
@@ -2101,11 +2105,6 @@ d2b3ta1[A:1-73]
 
 7103.1.1        MJ1004, C-terminal domain
 e6h1wA2[A:128-210]
-
-
-1085.1.1        Cdc45 CID domain
-e5dgoA3[A:267-372]
-e5ghtA3[A:195-278]
 
 
 
