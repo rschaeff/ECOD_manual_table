@@ -15305,7 +15305,7 @@ e4lvnP1[P:137-217]
 e2lu1A1[A:26-114]
 e1r6vA1[A:9-105]
 e5mpwA1[A:76-190]
-304.169.1
+304.169.1		RspWYL1 C-terminal domain
 e6oawA3[A:305-392]
 304.37.1        Sulfite reductase, domains 1 and 3 @Contains SCOP superfamilies: d.58.36@
 d1aopa1
