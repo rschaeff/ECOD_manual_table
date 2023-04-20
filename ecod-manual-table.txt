@@ -159,7 +159,7 @@ d1no1a_
 d1tbaa_
 
 
-577.1.1        Wiscott-Aldrich syndrome protein, WASP, C-terminal domain @Contains SCOP superfamilies: a.68.1@
+577.1.1        CRIB domain @Contains SCOP superfamilies: a.68.1@
 d1ej5a_
 
 
