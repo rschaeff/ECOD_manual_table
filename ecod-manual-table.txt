@@ -11193,7 +11193,7 @@ e2k2sA1[A:1-136]
 e4qhwA2[A:150-418]
 e2mpoA1[A:1-182]
 e3a0nA1[A:2-243]
-10.1.2        Galactose-binding domain-like @Contains SCOP superfamilies: b.23.2 b.14.1 b.135.1 b.18.1 b.132.1@
+10.30.1        Galactose-binding domain-like @Contains SCOP superfamilies: b.23.2 b.14.1 b.135.1 b.18.1 b.132.1@
 d1nqja_
 e5kleA1[A:333-427]
 d1df0a2
